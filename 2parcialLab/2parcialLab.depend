@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1595524503 source:c:\users\gonzalo\desktop\2parciallab\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	"ll_list.h"
+	"Controller.h"
+	"bicicleta.h"
+	"menu.h"
+	"string.h"
+
+1595531218 source:c:\users\gonzalo\desktop\2parciallab\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"bicicleta.h"
+	"ll_list.h"
+	"Controller.h"
+	"parser.h"
+	<ctype.h>
+	"string.h"
+	"informes.h"
+
+1595529168 c:\users\gonzalo\desktop\2parciallab\menu.h
+
+1595524503 c:\users\gonzalo\desktop\2parciallab\bicicleta.h
+
+1595529133 source:c:\users\gonzalo\desktop\2parciallab\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"bicicleta.h"
+
+1595530779 source:c:\users\gonzalo\desktop\2parciallab\ll_list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ll_list.h"
+	"bicicleta.h"
+
+1595530779 c:\users\gonzalo\desktop\2parciallab\ll_list.h
+
+1595524545 c:\users\gonzalo\desktop\2parciallab\controller.h
+	"ll_list.h"
+
+1595432341 c:\users\gonzalo\desktop\2parciallab\parser.h
+
+1595364391 source:c:\users\gonzalo\desktop\2parciallab\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ll_list.h"
+	"bicicleta.h"
+
+1595531142 source:c:\users\gonzalo\desktop\2parciallab\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"ll_list.h"
+	"bicicleta.h"
+	"parser.h"
+	"utn.h"
+
+1595527118 c:\users\gonzalo\desktop\2parciallab\utn.h
+
+1595528825 source:c:\users\gonzalo\desktop\2parciallab\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+
+1595530779 c:\users\gonzalo\desktop\2parciallab\informes.h
+	"bicicleta.h"
+
+1595530833 source:c:\users\gonzalo\desktop\2parciallab\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"bicicleta.h"
+	<ctype.h>
+	"string.h"
+
